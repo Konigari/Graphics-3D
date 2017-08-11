@@ -1,0 +1,13 @@
+Controls:
+1. a, s, w, d to move the block left, down, right and up respectively
+2. Tower view->2 
+Helicopter View ->5
+Top View - >1
+Follow cam ->3
+Tower view -> 0
+
+extra feature:
+Levels are given to choose from at the start of the game.
+The winner if lost or won is displayed on the menu bar of the window.
+Animated movements of block added.
+
